@@ -1,6 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "ALX school is so cool"
-=======
+echo "This line below was inserted from the update_script branch while merging"
 echo "ALX School"
->>>>>>> update_script
